@@ -1,0 +1,339 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc37               { /* Common */
+	font            : 36pt 'Arial Black', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc38               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc39               { /* Common */
+	font            : bold 45pt 'Arial Black', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc40               { /* Common */
+	font            : 14pt 'Arial Black', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc41               { /* Common */
+	font            : bold 24pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc42               { /* Common */
+	font            : bold 18pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc43               { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	border          :   3.75pt solid #0099ff;
+	}
+.cc44               { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc45               { /* Common */
+	border          :   3.75pt solid #0099ff;
+	}
+span#e37            { /* cake-n-eat-it006005.png */
+	background      : transparent url(cake-n-eat-it006005.png) no-repeat top left;
+	position        : absolute;
+	left            :   0.75pt;
+	top             : 217.50pt;
+	width           : 767.25pt;
+	height          : 497.25pt;
+	}
+div#e36             {
+	background-color: #0099ff;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 767.25pt;
+	height          : 103.50pt;
+	}
+div#e35             {
+	background-color: #0099ff;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 714.75pt;
+	width           : 768.00pt;
+	height          :  34.50pt;
+	}
+span#e34            { /* cake-n-eat-it001006.png */
+	background      : transparent url(cake-n-eat-it001006.png) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :   0.00pt;
+	width           : 105.75pt;
+	height          : 105.75pt;
+	}
+div#e33             { /* Welcome to Cake N' Eat I... */
+	position        : absolute;
+	left            : 110.25pt;
+	top             :   5.25pt;
+	width           : 657.75pt;
+	height          :  63.75pt;
+	}
+div#e32             { /* YOU THINK IT - WE CREATE... */
+	position        : absolute;
+	left            : 265.50pt;
+	top             :  70.50pt;
+	width           : 258.00pt;
+	height          :  26.25pt;
+	}
+div#e31             { /* HOME */
+	background-color: #ff0000;
+	position        : absolute;
+	left            :   9.75pt;
+	top             : 113.25pt;
+	width           : 108.75pt;
+	height          :  30.75pt;
+	}
+div#e30             { /* SHOP NOW */
+	background-color: #0099ff;
+	position        : absolute;
+	left            : 144.00pt;
+	top             : 114.75pt;
+	width           : 150.75pt;
+	height          :  30.75pt;
+	}
+div#e29             { /* ABOUT US */
+	background-color: #0099ff;
+	position        : absolute;
+	left            : 346.50pt;
+	top             : 114.75pt;
+	width           : 150.75pt;
+	height          :  30.75pt;
+	}
+div#e28             { /* CONTACT US */
+	background-color: #0099ff;
+	position        : absolute;
+	left            : 555.75pt;
+	top             : 112.50pt;
+	width           : 181.50pt;
+	height          :  31.50pt;
+	}
+div#e27             { /* CREATE A CAKE */
+	background-color: #0099ff;
+	position        : absolute;
+	left            : 458.25pt;
+	top             : 180.00pt;
+	width           : 202.50pt;
+	height          :  30.75pt;
+	}
+div#e26             { /* BOOK A TOUR */
+	background-color: #0099ff;
+	position        : absolute;
+	left            : 208.50pt;
+	top             : 180.00pt;
+	width           : 184.50pt;
+	height          :  30.00pt;
+	}
+div#e25             { /* BIRTHDAY */
+	background-color: #0099ff;
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 322.50pt;
+	width           : 184.50pt;
+	height          :  30.75pt;
+	}
+div#e24             { /* CORPORATE */
+	background-color: #0099ff;
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 399.00pt;
+	width           : 184.50pt;
+	height          :  30.75pt;
+	}
+div#e23             { /* JUST BECAUSE */
+	background-color: #ff0000;
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 249.75pt;
+	width           : 145.50pt;
+	height          :  27.75pt;
+	}
+div#e22             { /* SPECIAL OCCASION */
+	background-color: #0099ff;
+	position        : absolute;
+	left            :   6.00pt;
+	top             : 473.25pt;
+	width           : 200.25pt;
+	height          :  24.75pt;
+	}
+span#e21            { /* cake-n-eat-it006004.png */
+	background      : transparent url(cake-n-eat-it006004.png) no-repeat top left;
+	position        : absolute;
+	left            :  39.00pt;
+	top             : 525.00pt;
+	width           : 150.00pt;
+	height          : 150.00pt;
+	}
+img#e20             { /* arrownext.png */
+	position        : absolute;
+	left            : 419.25pt;
+	top             : 670.50pt;
+	width           :  46.50pt;
+	height          :  41.25pt;
+	}
+div#e19             { /* \ \Ferrero Rocher Cake\ ... */
+	position        : absolute;
+	left            : 394.50pt;
+	top             : 254.25pt;
+	width           : 338.25pt;
+	height          : 113.25pt;
+	}
+div#e18             { /* $59.90 */
+	background-color: #ff0000;
+	position        : absolute;
+	left            : 540.75pt;
+	top             : 333.00pt;
+	width           :  53.25pt;
+	height          :  22.50pt;
+	}
+div#e17             { /* \ \Strawberry Cake \ \Ma... */
+	position        : absolute;
+	left            : 394.50pt;
+	top             : 396.75pt;
+	width           : 338.25pt;
+	height          : 113.25pt;
+	}
+div#e16             { /* $29.90 */
+	background-color: #ff0000;
+	position        : absolute;
+	left            : 540.75pt;
+	top             : 475.50pt;
+	width           :  53.25pt;
+	height          :  19.50pt;
+	}
+div#e15             { /* \ \Black Forest Cake \ \... */
+	position        : absolute;
+	left            : 394.50pt;
+	top             : 539.25pt;
+	width           : 338.25pt;
+	height          : 113.25pt;
+	}
+div#e14             { /* $89.90 */
+	background-color: #ff0000;
+	position        : absolute;
+	left            : 540.75pt;
+	top             : 618.00pt;
+	width           :  53.25pt;
+	height          :  19.50pt;
+	}
+div#e13             {
+	position        : absolute;
+	left            : 446.25pt;
+	top             : 331.50pt;
+	width           :  63.75pt;
+	height          :  22.50pt;
+	}
+div#e12             {
+	position        : absolute;
+	left            : 438.00pt;
+	top             : 477.00pt;
+	width           :  63.75pt;
+	height          :  21.00pt;
+	}
+div#e11             {
+	position        : absolute;
+	left            : 636.00pt;
+	top             : 330.00pt;
+	width           :  54.00pt;
+	height          :  30.75pt;
+	}
+div#e10             {
+	position        : absolute;
+	left            : 631.50pt;
+	top             : 470.25pt;
+	width           :  69.00pt;
+	height          :  30.00pt;
+	}
+div#e9              {
+	position        : absolute;
+	left            : 630.75pt;
+	top             : 608.25pt;
+	width           :  63.00pt;
+	height          :  33.00pt;
+	}
+div#e8              {
+	position        : absolute;
+	left            : 439.50pt;
+	top             : 607.50pt;
+	width           :  67.50pt;
+	height          :  32.25pt;
+	}
+div#e7              {
+	position        : absolute;
+	left            : 675.75pt;
+	top             :  61.50pt;
+	width           :  64.50pt;
+	height          :  42.75pt;
+	}
+img#e6              { /* cake-n-eat-it001005.png */
+	position        : absolute;
+	left            : 702.00pt;
+	top             : 169.50pt;
+	width           :  38.25pt;
+	height          :  38.25pt;
+	}
+span#e5             { /* cake-n-eat-it001002.png */
+	background      : transparent url(cake-n-eat-it001002.png) no-repeat top left;
+	position        : absolute;
+	left            : 539.25pt;
+	top             : 220.50pt;
+	width           :  30.75pt;
+	height          :  33.75pt;
+	}
+img#e4              { /* cake-n-eat-it006003.jpg */
+	position        : absolute;
+	left            : 222.00pt;
+	top             : 253.50pt;
+	width           : 166.50pt;
+	height          : 114.00pt;
+	}
+img#e3              { /* cake-n-eat-it006002.jpg */
+	position        : absolute;
+	left            : 226.50pt;
+	top             : 397.50pt;
+	width           : 164.25pt;
+	height          : 113.25pt;
+	}
+img#e2              { /* cake-n-eat-it006001.jpg */
+	position        : absolute;
+	left            : 250.50pt;
+	top             : 539.25pt;
+	width           : 138.75pt;
+	height          : 113.25pt;
+	}
+div#e1              {
+	position        : absolute;
+	left            : 576.00pt;
+	top             : 222.75pt;
+	width           : 164.25pt;
+	height          :  25.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 768.00pt;
+	height          : 750.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #e9ebec;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
