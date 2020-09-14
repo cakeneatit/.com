@@ -1,0 +1,231 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc47               { /* Common */
+	font            : 36pt 'Arial Black', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc48               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc49               { /* Common */
+	font            : bold 45pt 'Arial Black', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc50               { /* Common */
+	font            : 14pt 'Arial Black', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc51               { /* Common */
+	font            : bold 24pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc52               { /* Common */
+	font            : bold 18pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc53               { /* Common */
+	font            : bold 36pt 'Arial Black', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	border          :   3.75pt solid #0099ff;
+	}
+span#e23            { /* cake-n-eat-it006005.png */
+	background      : transparent url(cake-n-eat-it006005.png) no-repeat top left;
+	position        : absolute;
+	left            :   0.75pt;
+	top             : 217.50pt;
+	width           : 767.25pt;
+	height          : 497.25pt;
+	}
+div#e22             {
+	background-color: #0099ff;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 767.25pt;
+	height          : 103.50pt;
+	}
+div#e21             {
+	background-color: #0099ff;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 714.75pt;
+	width           : 768.00pt;
+	height          :  34.50pt;
+	}
+span#e20            { /* cake-n-eat-it001006.png */
+	background      : transparent url(cake-n-eat-it001006.png) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :   0.00pt;
+	width           : 105.75pt;
+	height          : 105.75pt;
+	}
+div#e19             { /* Welcome to Cake N' Eat I... */
+	position        : absolute;
+	left            : 110.25pt;
+	top             :   5.25pt;
+	width           : 657.75pt;
+	height          :  63.75pt;
+	}
+div#e18             { /* YOU THINK IT - WE CREATE... */
+	position        : absolute;
+	left            : 265.50pt;
+	top             :  70.50pt;
+	width           : 258.00pt;
+	height          :  26.25pt;
+	}
+div#e17             { /* HOME */
+	background-color: #ff0000;
+	position        : absolute;
+	left            :   9.75pt;
+	top             : 113.25pt;
+	width           : 108.75pt;
+	height          :  30.75pt;
+	}
+div#e16             { /* SHOP NOW */
+	background-color: #0099ff;
+	position        : absolute;
+	left            : 144.00pt;
+	top             : 114.75pt;
+	width           : 150.75pt;
+	height          :  30.75pt;
+	}
+div#e15             { /* ABOUT US */
+	background-color: #0099ff;
+	position        : absolute;
+	left            : 346.50pt;
+	top             : 114.75pt;
+	width           : 150.75pt;
+	height          :  30.75pt;
+	}
+div#e14             { /* CONTACT US */
+	background-color: #0099ff;
+	position        : absolute;
+	left            : 555.75pt;
+	top             : 112.50pt;
+	width           : 181.50pt;
+	height          :  31.50pt;
+	}
+div#e13             { /* CREATE A CAKE */
+	background-color: #0099ff;
+	position        : absolute;
+	left            : 458.25pt;
+	top             : 180.00pt;
+	width           : 202.50pt;
+	height          :  30.75pt;
+	}
+div#e12             { /* BOOK A TOUR */
+	background-color: #0099ff;
+	position        : absolute;
+	left            : 208.50pt;
+	top             : 180.00pt;
+	width           : 184.50pt;
+	height          :  30.00pt;
+	}
+div#e11             { /* BIRTHDAY */
+	background-color: #0099ff;
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 322.50pt;
+	width           : 184.50pt;
+	height          :  30.75pt;
+	}
+div#e10             { /* CORPORATE */
+	background-color: #0099ff;
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 399.00pt;
+	width           : 184.50pt;
+	height          :  30.75pt;
+	}
+div#e9              { /* JUST BECAUSE */
+	background-color: #ff0000;
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 249.75pt;
+	width           : 145.50pt;
+	height          :  27.75pt;
+	}
+div#e8              { /* SPECIAL OCCASION */
+	background-color: #0099ff;
+	position        : absolute;
+	left            :   6.00pt;
+	top             : 473.25pt;
+	width           : 200.25pt;
+	height          :  24.75pt;
+	}
+span#e7             { /* cake-n-eat-it006004.png */
+	background      : transparent url(cake-n-eat-it006004.png) no-repeat top left;
+	position        : absolute;
+	left            :  39.00pt;
+	top             : 525.00pt;
+	width           : 150.00pt;
+	height          : 150.00pt;
+	}
+img#e6              { /* arrowprev.png */
+	position        : absolute;
+	left            : 342.00pt;
+	top             : 672.00pt;
+	width           :  46.50pt;
+	height          :  41.25pt;
+	}
+div#e5              { /* JUST BECAUSE PAGE 2 */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 336.00pt;
+	width           : 296.25pt;
+	height          : 192.75pt;
+	}
+div#e4              {
+	position        : absolute;
+	left            : 675.75pt;
+	top             :  61.50pt;
+	width           :  64.50pt;
+	height          :  42.75pt;
+	}
+img#e3              { /* cake-n-eat-it001005.png */
+	position        : absolute;
+	left            : 702.00pt;
+	top             : 169.50pt;
+	width           :  38.25pt;
+	height          :  38.25pt;
+	}
+span#e2             { /* cake-n-eat-it001002.png */
+	background      : transparent url(cake-n-eat-it001002.png) no-repeat top left;
+	position        : absolute;
+	left            : 539.25pt;
+	top             : 220.50pt;
+	width           :  30.75pt;
+	height          :  33.75pt;
+	}
+div#e1              {
+	position        : absolute;
+	left            : 576.00pt;
+	top             : 222.75pt;
+	width           : 164.25pt;
+	height          :  25.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 768.00pt;
+	height          : 750.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #e9ebec;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/
